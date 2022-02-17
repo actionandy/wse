@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieContent RenderLoadingTestWhenMoviesAreProvided 1`] = `
+<div>
+  <div
+    class="relative"
+  >
+    <div
+      class="relative hover:cursor-pointer"
+    >
+      <a
+        href="/filme/-9YZA_G7GJ0.P/gunda"
+        title="Weitere Informationen und Trailer zu Gunda"
+      >
+        <img
+          alt="Filmposter: Gunda"
+          class="w-fulll rounded border-2 p-1 shadow-sm"
+          referrerpolicy="no-referrer"
+          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+          style="height: 326px; width: 230px;"
+        />
+        <div
+          class="overflow-hidden absolute top-0 right-0 bottom-0 left-0 w-full h-full bg-fixed opacity-0 hover:opacity-40 hover:bg-yellow-300 transition duration-300 ease-in-out bg-white"
+        />
+      </a>
+    </div>
+  </div>
+  <div
+    class="relative"
+  >
+    <div
+      class="relative hover:cursor-pointer"
+    >
+      <a
+        href="/filme/AOYloSgV5MA.P/kevin-allein-zu-haus"
+        title="Weitere Informationen und Trailer zu Kevin - Allein zu Haus"
+      >
+        <img
+          alt="Filmposter: Kevin - Allein zu Haus"
+          class="w-fulll rounded border-2 p-1 shadow-sm"
+          referrerpolicy="no-referrer"
+          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+          style="height: 326px; width: 230px;"
+        />
+        <div
+          class="overflow-hidden absolute top-0 right-0 bottom-0 left-0 w-full h-full bg-fixed opacity-0 hover:opacity-40 hover:bg-yellow-300 transition duration-300 ease-in-out bg-white"
+        />
+      </a>
+    </div>
+  </div>
+  <div
+    class="relative"
+  >
+    <div
+      class="relative hover:cursor-pointer"
+    >
+      <a
+        href="/filme/t1uJ0wSV2_U.P/dune-drifter"
+        title="Weitere Informationen und Trailer zu Dune Drifter"
+      >
+        <img
+          alt="Filmposter: Dune Drifter"
+          class="w-fulll rounded border-2 p-1 shadow-sm"
+          referrerpolicy="no-referrer"
+          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+          style="height: 326px; width: 230px;"
+        />
+        <div
+          class="overflow-hidden absolute top-0 right-0 bottom-0 left-0 w-full h-full bg-fixed opacity-0 hover:opacity-40 hover:bg-yellow-300 transition duration-300 ease-in-out bg-white"
+        />
+      </a>
+    </div>
+  </div>
+  <div />
+</div>
+`;
+
+exports[`MovieContent RenderLoadingTestWhenNoMoviesProvided 1`] = `
+<div>
+  Vorschläge werden geladen...
+</div>
+`;

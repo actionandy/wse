@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieContext LoadMoviesSuccess 1`] = `
+<div
+  data-testid="movies"
+>
+  <span>
+    -9YZA_G7GJ0.P
+  </span>
+  <span>
+    AOYloSgV5MA.P
+  </span>
+  <span>
+    t1uJ0wSV2_U.P
+  </span>
+</div>
+`;

@@ -1,0 +1,287 @@
+[
+  {
+    "_type": "Movie",
+    "AdditionalInfo": {
+      "Rating": 0
+    },
+    "Cast": [
+      {
+        "Name": "Gunda"
+      }
+    ],
+    "Directors": [
+      {
+        "Name": "Victor Kossakovsky"
+      }
+    ],
+    "Description": "GUNDA ist Kino pur. Der Film zeigt das Leben eines Hausschweins, einer Hühnerschar und einer Rinderherde mit meisterhafter Intensität. In herausragenden Schwarz-Weiß-Bildern begegnet Regisseur Victor Kossakovsky den tierischen Bewohnern auf einem kleinen Bauernhof auf Augenhöhe und erzählt sie als Geschöpfe mit eigener Wahrnehmung, eigenem Empfinden und eigenen Gewohnheiten - eine meditative Reise in das Leben seiner Protagonisten und ihren Kosmos mit seinem ganz eigenen Raum- und Zeitgefüge.",
+    "Link": "https://play.google.com/store/movies/details/Gunda?id=-9YZA_G7GJ0.P&hl=de&gl=DE",
+    "Titles": {
+      "Stream": "Gunda"
+    },
+    "FSK": "0",
+    "Genres": [
+      "Dokumentationen"
+    ],
+    "Images": {
+      "Cover": "https://play-lh.googleusercontent.com/JqNBjDEVZ17OV1mUFIFTUUI_XWpl15k6xMEBXA3_WW7R5YNLYnNBJHbmCDqixCKk1yRvTRxnz0NPH_yKzIQ",
+      "Additional": "https://play-lh.googleusercontent.com/proxy/lf0ieDR3EMzy2hEWAbJYhNup1bd3OgP3I_mzfV0Kk5AUWX6U6X5VI3MZ--uXpdOynpiqJu3Fcqvu_4BBijno7gtqfBFPC0Dlf_OwBWKQyeWCNqZS6SiwhHDE7yi7oy1UJbMrXpUHykzTLEvwMlQN3NZOhJB2O63xnf2cNA"
+    },
+    "Languages": [
+      "Deutsch [5.1]"
+    ],
+    "ProviderTrackID": "-9YZA_G7GJ0.P",
+    "Free": false,
+    "Offers": [
+      {
+        "OfferID": "CAcSEGVjMWZiNmFjMDAwMDAwMDA=",
+        "Price": 11.99,
+        "PurchaseType": "Buy",
+        "QualityName": {
+          "video": "HD"
+        }
+      },
+      {
+        "OfferID": "CAESEDljMWZiNmFjMDAwMDAwMDA=",
+        "Price": 9.99,
+        "PurchaseType": "Buy",
+        "QualityName": {
+          "video": "SD"
+        }
+      },
+      {
+        "OfferID": "CAQSEDVjMWZiNmFjMDAwMDAwMDA=",
+        "Price": 4.99,
+        "PurchaseType": "Rent",
+        "QualityName": {
+          "video": "HD"
+        }
+      },
+      {
+        "OfferID": "CAMSEDFjMWZiNmFjMDAwMDAwMDA=",
+        "Price": 3.99,
+        "PurchaseType": "Rent",
+        "QualityName": {
+          "video": "SD"
+        }
+      }
+    ],
+    "RentalPrice": 3.99,
+    "RentalPriceHD": 4.99,
+    "RentalPriceUHD": 0,
+    "Price": 9.99,
+    "PriceHD": 11.99,
+    "PriceUHD": 0,
+    "HD": true,
+    "Runtime": 93,
+    "Trailer": {
+      "YouTube": "Q_iqwWGmT74.P"
+    },
+    "Year": 2021
+  },
+  {
+    "_type": "Movie",
+    "AdditionalInfo": {
+      "Rating": 4.5531917
+    },
+    "Description": "Der achtjährige Kevin McCallister ist über Nacht Hausherr geworden! Versehentlich zurückgelassen, als seine Familie in einen Weihnachtsurlaub abreist, ist Kevin damit beschäftigt, das Haus für die Feiertage zu dekorieren. Aber er schmückt die Hallen nicht mit Lametta und Winterbeeren. Zwei tollpatschige Einbrecher versuchen einzubrechen, und Kevin arrangiert eine wahnwitzige Reihe von Sprengfallen, um sie zu begrüßen!",
+    "Link": "https://play.google.com/store/movies/details/Kevin_Allein_zu_Haus?id=AOYloSgV5MA.P&hl=de&gl=DE",
+    "Titles": {
+      "Stream": "Kevin - Allein zu Haus"
+    },
+    "FSK": "12",
+    "Genres": [
+      "Komödie",
+      "Familienfilme"
+    ],
+    "Images": {
+      "Cover": "https://play-lh.googleusercontent.com/9xeR29oJ53B1BjbKlwg8N8czpCoUFIm0_1cPgqi0H_HTOdrT9WtcvPkmMy51PnPwVtlbKLDgaeB1A9BmOsQ",
+      "Additional": "https://play-lh.googleusercontent.com/proxy/fMMKDH7Jv2NvQcOosLMXdxeVEnwMuixICx66Pb9DYBzH6W2g8Fk9Whvdw9koeVta-d1aekIxL72glmhzI1YxfhUKBZ288Lye-iVLUu2nd8Sbbj8as9r4JEzhkTfAvEUuwQq1ZfdoZZ-lHI4Ya1YbP1cLFkJjeo7PV5D6eA"
+    },
+    "Languages": [
+      "Deutsch [5.1]",
+      "Englisch [5.1]"
+    ],
+    "Subtitles": [
+      "Chinesisch",
+      "Dänisch",
+      "Deutsch",
+      "Finnisch",
+      "Griechisch",
+      "Isländisch",
+      "Italienisch",
+      "Niederländisch",
+      "Norwegisch",
+      "Polnisch",
+      "Portugiesisch",
+      "Russisch",
+      "Schwedisch",
+      "Spanisch",
+      "Thailändisch",
+      "Tschechisch",
+      "Türkisch"
+    ],
+    "ProviderTrackID": "AOYloSgV5MA.P",
+    "Free": false,
+    "Offers": [
+      {
+        "OfferID": "CAcSEGIwYWQ2Y2FjMDAwMDAwMDA=",
+        "Price": 9.99,
+        "PurchaseType": "Buy",
+        "QualityName": {
+          "video": "HD"
+        }
+      },
+      {
+        "OfferID": "CAQSEDMwYWQ2Y2FjMDAwMDAwMDA=",
+        "Price": 3.99,
+        "PurchaseType": "Rent",
+        "QualityName": {
+          "video": "HD"
+        }
+      }
+    ],
+    "RentalPrice": 0,
+    "RentalPriceHD": 3.99,
+    "RentalPriceUHD": 0,
+    "Price": 0,
+    "PriceHD": 9.99,
+    "PriceUHD": 0,
+    "HD": true,
+    "Runtime": 102,
+    "Year": 1990
+  },
+  {
+    "_type": "Movie",
+    "AdditionalInfo": {
+      "Rating": 1
+    },
+    "Cast": [
+      {
+        "Name": "Phoebe Sparrow"
+      },
+      {
+        "Name": "Linda Louise Duan"
+      },
+      {
+        "Name": "Kezia Burrows"
+      },
+      {
+        "Name": "Richard Corgan"
+      },
+      {
+        "Name": "Asher Green"
+      },
+      {
+        "Name": "Claire Burley"
+      },
+      {
+        "Name": "Marcus Shakesheff"
+      },
+      {
+        "Name": "Michael Lagin"
+      },
+      {
+        "Name": "Tom Nolan"
+      },
+      {
+        "Name": "Daisy Aitkens"
+      },
+      {
+        "Name": "James Groom"
+      },
+      {
+        "Name": "Jen Nelson"
+      },
+      {
+        "Name": "Alexander Tol"
+      },
+      {
+        "Name": "Michael Geary"
+      },
+      {
+        "Name": "Alastair Kirton"
+      },
+      {
+        "Name": "Charlotte Mounter"
+      },
+      {
+        "Name": "Simon Dwyer-Thomas"
+      },
+      {
+        "Name": "Damien Largey"
+      }
+    ],
+    "Directors": [
+      {
+        "Name": "Marc Price"
+      }
+    ],
+    "Description": "Es herrscht Krieg zwischen den Sternen. Eine Gruppe von Raumjägerpiloten befindet sich im Kampf gegen eine Armada feindlicher Schiffe. Als die Pilotin Adler (Phoebe Sparrow aus DOWNTON ABBEY) abgeschossen wird, gelingt es ihr, auf einem nahe gelegenen Planeten zu landen. Da ihr Lebenserhaltungssystem nur zwei verbleibende Tage prognostiziert, muss sie ihr Schiff schnellstmöglich reparieren. Der Aufprall eines feindlichen Fluggleiters scheint die Lösung zu sein. Aber dessen außerirdischer Insasse hat ebenso überlebt und ist keineswegs gewillt, sein gestrandetes Schiff herzugeben. Ein gnadenloser Kampf gegen die Zeit beginnt.",
+    "Link": "https://play.google.com/store/movies/details/Dune_Drifter?id=t1uJ0wSV2_U.P&hl=de&gl=DE",
+    "Titles": {
+      "Stream": "Dune Drifter"
+    },
+    "FSK": "16",
+    "Genres": [
+      "Sci-Fi & Fantasy",
+      "Horror"
+    ],
+    "Images": {
+      "Cover": "https://play-lh.googleusercontent.com/MI8hHLuzZ6Ct9gICupQB6rNiDYNqwGR2p1LmUvD58uJBC6GLZL1ZbLDUzgJ5dpfqEaDUa6kCqelBm9GQ_MY",
+      "Additional": "https://play-lh.googleusercontent.com/proxy/5afwZFCiGqMBWm0_4did1l_BnDVWMQPh7d3MOlokRPZYZh5FhwoOb6sTqwKfcJV5YjCvHSX10DJzezzP-Z-l31n98vcte9jj10vgdvwOCEEbXUrEIEZotLedirpFpSf196W1EFcRhSiLlbk38PoETmssZos7pht8ngciOw"
+    },
+    "Languages": [
+      "Deutsch [5.1]",
+      "Englisch [5.1]"
+    ],
+    "ProviderTrackID": "t1uJ0wSV2_U.P",
+    "Free": false,
+    "Offers": [
+      {
+        "OfferID": "CAcSEDFiOWJlNmFjMDAwMDAwMDA=",
+        "Price": 10.99,
+        "PurchaseType": "Buy",
+        "QualityName": {
+          "video": "HD"
+        }
+      },
+      {
+        "OfferID": "CAESEDViOWJlNmFjMDAwMDAwMDA=",
+        "Price": 7.99,
+        "PurchaseType": "Buy",
+        "QualityName": {
+          "video": "SD"
+        }
+      },
+      {
+        "OfferID": "CAQSEDliOWJlNmFjMDAwMDAwMDA=",
+        "Price": 4.99,
+        "PurchaseType": "Rent",
+        "QualityName": {
+          "video": "HD"
+        }
+      },
+      {
+        "OfferID": "CAMSEGRiOWJlNmFjMDAwMDAwMDA=",
+        "Price": 3.99,
+        "PurchaseType": "Rent",
+        "QualityName": {
+          "video": "SD"
+        }
+      }
+    ],
+    "RentalPrice": 3.99,
+    "RentalPriceHD": 4.99,
+    "RentalPriceUHD": 0,
+    "Price": 7.99,
+    "PriceHD": 10.99,
+    "PriceUHD": 0,
+    "HD": true,
+    "Runtime": 90,
+    "Trailer": {
+      "YouTube": "Awb1VaV1tH4.P"
+    },
+    "Year": 2021
+  }
+]
