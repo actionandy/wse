@@ -1,7 +1,7 @@
 import classNames from 'classnames';
 import React, {useEffect, useState} from 'react';
 import {useParams} from 'react-router-dom';
-import {Stars, FSK} from '../atoms';
+import {ListGroup, Stars, FSK} from '../atoms';
 import {MovieData} from '../components/Movie/Movie';
 import {useMovieContext} from '../components/Movie/MovieContext';
 
@@ -70,29 +70,38 @@ const Details = () => {
             {/* Actors, direction and available languages */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-5">
               {/* List all available lanaguages */}
-              {!!movie.Languages && <ul className="text-gray-900">
-                <li className="px-6 py-2 font-bold">Verfügbar in</li>
+              {!!movie.Languages && <ListGroup>
+                <ListGroup.Item>
+                  <span className="font-bold">Verfügbar in</span>
+                </ListGroup.Item>
                 {movie.Languages.map((language, i) => (
-                  <li key={i} className="px-6 py-2 border-b border-gray-200 w-full">
-                    <span className="text-green-600 font-bold mr-1">&#10003;</span> {language}</li>
+                  <ListGroup.Item key={i}>
+                    <span className="text-green-600 font-bold mr-1">&#10003;</span> {language}
+                  </ListGroup.Item>
                 ))}
-              </ul>}
+              </ListGroup>}
               {/* List crew members and actors */}
-              {!!movie.Cast && <ul className="text-gray-900">
-                <li className="px-6 py-2 font-bold">Schauspieler</li>
+              {!!movie.Cast && <ListGroup>
+                <ListGroup.Item>
+                  <span className="font-bold">Schauspieler</span>
+                </ListGroup.Item>
                 {movie.Cast.map((actor, i) => (
-                  <li key={i} className="px-6 py-2 border-b border-gray-200 w-full">
+                  <ListGroup.Item key={i}>
                     <span dangerouslySetInnerHTML={{__html: actor.Name}} />
-                  </li>
+                  </ListGroup.Item>
                 ))}
-              </ul>}
+              </ListGroup>}
               {/* List directors and regie */}
-              {!!movie.Directors && <ul className="text-gray-900">
-                <li className="px-6 py-2 font-bold">Regie</li>
+              {!!movie.Directors && <ListGroup>
+                <ListGroup.Item>
+                  <span className="font-bold">Regie</span>
+                </ListGroup.Item>
                 {movie.Directors.map((director, i) => (
-                  <li key={i} className="px-6 py-2 border-b border-gray-200 w-full">{director.Name}</li>
+                  <ListGroup.Item key={i}>
+                    <span dangerouslySetInnerHTML={{__html: director.Name}} />
+                  </ListGroup.Item>
                 ))}
-              </ul>}
+              </ListGroup>}
             </div>
           </div>
         </div>
